@@ -1,5 +1,5 @@
 #JQuery Basics
-### Where all the jQuery exercises and challenges would go.
+* Where all the jQuery exercises and challenges would go *
 
 ###Notes
 - things to add, what was learned
