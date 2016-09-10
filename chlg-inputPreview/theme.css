@@ -1,0 +1,15 @@
+  #form {
+    width: 45%;
+    float: left;
+  }
+  #preview {
+    width: 45%;
+    float: right;
+  }
+  label {
+    width: 20%;
+    display: inline-block;
+  }
+  input {
+    width: 70%;
+  }
